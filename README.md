@@ -5,15 +5,15 @@ The speed of these transactions gave your firm a competitive advantage early on.
 
 We were requested to divide the challenge into the following sections:
 
-Establish a Baseline Performance
+- Establish a Baseline Performance
 
-Tune the Baseline Trading Algorithm
+- Tune the Baseline Trading Algorithm
 
-Evaluate a New Machine Learning Classifier
+- Evaluate a New Machine Learning Classifier
 
-Create an Evaluation Report
+- Create an Evaluation Report
 
-Technologies used:
+**Technologies used:**
 
 - Pandas
 
