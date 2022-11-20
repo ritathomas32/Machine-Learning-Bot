@@ -32,6 +32,14 @@ A new classifier Logistic Regression was used to backtest the model.
 
 <img width="671" alt="Screen Shot_4" src="https://user-images.githubusercontent.com/108632632/202889997-b036dc48-e674-48c7-8cc3-e0d2e73ece8e.png">
 
+The following results are displayed when we increased the short and long window SMA values to 50 and 100. 
+
+<img width="572" alt="Screen Shot 2022-11-20 at 6 04 28 pm" src="https://user-images.githubusercontent.com/108632632/202890150-e4e1b86c-fd53-49d2-a498-ab86068d66b2.png">
+
+<img width="650" alt="Screen Shot 2022-11-20 at 6 06 22 pm" src="https://user-images.githubusercontent.com/108632632/202890211-c1eb4f98-4f6d-49d6-9077-d7b2b05e9a20.png">
+
+<img width="803" alt="Screen Shot _10_2022-11-20 at 6 07 50 pm" src="https://user-images.githubusercontent.com/108632632/202890256-b3a083dc-e0eb-49d9-a0f2-fcf159db7373.png">
+
 
 
 **Technologies used:**
