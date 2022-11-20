@@ -61,3 +61,10 @@ I then increased the SVC model from 3 months to 12 months with the original wind
 
 <img width="588" alt="Screen Shot 2022-11-20 at 6 56 47 pm" src="https://user-images.githubusercontent.com/108632632/202891763-b6fbe2a1-2b73-4b3f-87cb-6e381e85ee82.png">
 
+One more test was conducted over 48 months with windows at 50 and 100.  Again minimal impact.  
+
+<img width="578" alt="Screen Shot 2022-11-21 at 8 12 55 am" src="https://user-images.githubusercontent.com/108632632/202926499-e1ddc805-7320-4e10-aaca-ab75d9f9ebf2.png">
+
+<img width="598" alt="Screen Shot 2022-11-21 at 8 13 40 am" src="https://user-images.githubusercontent.com/108632632/202926538-c3eabd28-2741-44e3-bbc5-fefae174e42d.png">
+
+
