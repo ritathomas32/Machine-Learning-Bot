@@ -13,6 +13,16 @@ We were requested to divide the challenge into the following sections:
 
 - Create an Evaluation Report
 
+**Technologies used:**
+
+- Pandas
+
+- Numpy
+
+- Hvplot
+
+- Scikit-learn
+
 
 The initial analysis we looked at using short and long window SMA values of 4 and 100.  The following results are displayed.
 
@@ -42,13 +52,12 @@ The following results are displayed when we increased the short and long window 
 
  A minimal insignificant change was reflected when changing the windows.  
 
-**Technologies used:**
+I then increased the SVC model from 3 months to 12 months with the original windows of 4 and 100. There was very little impact.
 
-- Pandas
+12 months
 
-- Numpy
+<img width="565" alt="Screen Shot_11_2022-11-20 at 6 54 36 pm" src="https://user-images.githubusercontent.com/108632632/202891723-f42db095-98d6-41e8-a57e-a761513d992b.png">
 
-- Hvplot
 
-- Scikit-learn
+<img width="588" alt="Screen Shot 2022-11-20 at 6 56 47 pm" src="https://user-images.githubusercontent.com/108632632/202891763-b6fbe2a1-2b73-4b3f-87cb-6e381e85ee82.png">
 
