@@ -40,7 +40,7 @@ The following results are displayed when we increased the short and long window 
 
 <img width="803" alt="Screen Shot _10_2022-11-20 at 6 07 50 pm" src="https://user-images.githubusercontent.com/108632632/202890256-b3a083dc-e0eb-49d9-a0f2-fcf159db7373.png">
 
-
+ A minimal insignificant change was reflected when changing the windows.  
 
 **Technologies used:**
 
