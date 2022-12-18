@@ -1,6 +1,6 @@
 # Background
 
-![project-2-challenge](Images/proj2-background3.JPG)
+Images/proj2-background3.JPG
 
 # Project Goal
 To investigate the potential feasibility of integrating different machine learning algorithms into conventional quantitative trading strategies with the aim of predicting buy and sell indicators within the cryptocurrency market space.  The cryptocurrency tokens selected for this anaylsis were Bitcoin, Ethereum, and Dogecoin.  
